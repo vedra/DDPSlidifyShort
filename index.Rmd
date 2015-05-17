@@ -95,7 +95,7 @@ ggplot(data = galton, aes(x=parent,y=child)) +
 ### Interactive SHINY web app
 
 
-- Available at: http://vedra.shinyapps.io/shiny/
+- Available at: http://vedra.shinyapps.io/PAshiny/
 
 <img width="340" height="210" src="AppShot.png">
 <p> &nbsp </p>
