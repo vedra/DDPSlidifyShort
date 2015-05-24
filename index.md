@@ -104,11 +104,13 @@ ggplot(data = galton, aes(x=parent,y=child)) +
 
 - Available at: http://vedra.shinyapps.io/PAshiny/
 
+- App source code: https://github.com/vedra/ShinyApp
+
 <img width="340" height="210" src="AppShot.png">
+
 
 ### REFERENCES
 
-- App source code: https://github.com/vedra/ShinyApp
 
 - Materials on LMP, Shiny, Slidify etc: www.coursera.com
 
@@ -117,5 +119,3 @@ ggplot(data = galton, aes(x=parent,y=child)) +
 - Image source: www.pixshark.com
 
 - Full slidify: https://vedra.github.io/DDPSlidifyFull/index.html
-
----
